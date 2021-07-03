@@ -11,6 +11,7 @@ font-size: 50px;
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -19,7 +20,7 @@ section{
 .half-width img{
     width: 70%;
 }
-.hire-me-button{
+.link-button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     color: white;
@@ -30,4 +31,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
