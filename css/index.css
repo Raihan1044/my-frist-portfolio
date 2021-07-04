@@ -28,11 +28,12 @@ font-size: 50px;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange,tomato);
-    color: white;
+    background-image: linear-gradient(cyan,gray);
+    color: black ;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+    box-shadow:10px 10px 20px grey;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -82,4 +83,5 @@ footer p{
 }
 footer p span{
     color:purple;
+   
 }
